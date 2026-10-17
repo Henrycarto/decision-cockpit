@@ -46,6 +46,9 @@ The second row is the honest one. The rules would have replaced the vomited anti
 straight away. In the record no antibiotic reached her for nearly 11 hours, until the sepsis
 response.
 
+The medicines behind these decisions, and where they collided, are in
+[med-collisions](https://github.com/Henrycarto/med-collisions).
+
 ## The rules
 
 Each one is simplified from its source, implemented as a pure function and tested at its
