@@ -1,5 +1,7 @@
 # Decision cockpit
 
+Live: https://decision-cockpit-eosin.vercel.app
+
 Clinical decision rules drawn as live circuits. A patient's values flow through NEWS2, CURB-65,
 the sepsis red flags and kidney function into six bedside decisions. Every lit wire is a reason,
 and every decision shows the smallest change that would turn it into a different one.
